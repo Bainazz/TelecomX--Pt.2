@@ -18,4 +18,4 @@ O arquivo `dados_tratados.csv` deve ser colocado na mesma pasta do notebook ou c
 ## Como usar
 1. Clone este repositório:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/Bainazz/TelecomX--Pt.2>
