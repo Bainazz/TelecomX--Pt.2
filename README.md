@@ -46,14 +46,7 @@ jupyter notebook
 
 2. Navegue até a pasta `notebooks` e abra `TelecomX--Pt.2.ipynb`.
 
-3. Execute célula por célula, na seguinte ordem:
-   1. Carregamento e exploração de dados
-   2. Pré-processamento (remoção de colunas, encoding, tratamento de valores ausentes)
-   3. Análise de correlação e gráficos direcionados
-   4. Balanceamento com SMOTE
-   5. Modelagem preditiva
-   6. Avaliação dos modelos
-   7. Interpretação das variáveis mais importantes
+3. Execute célula por célula na ordem pré definida ou pressione no teclado Ctrl + F9 (ou Cmd + F9 no macOS)
 
 ## Dataset
 O dataset `dados_tratados.csv` contém informações dos clientes da TelecomX, como:
